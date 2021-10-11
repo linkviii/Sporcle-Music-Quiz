@@ -65,3 +65,6 @@ https://trac.ffmpeg.org/wiki/Slideshow
 
 https://github.com/slhck/ffmpeg-normalize
 
+https://www.sporcle.com/blog/2015/01/create-classic-quiz/
+
+https://www.sporcle.com/blog/2017/05/6-lesser-known-tips-for-making-quizzes/
